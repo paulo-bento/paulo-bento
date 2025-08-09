@@ -1,8 +1,9 @@
 # 👋 Olá, eu sou o João
 
+-
 
-🎓 **Estudante de Análise de Dados e Sistemas** (em formação) e entusiasta de **programação**, **ciência da informação** e **software livre**.  
-💻 Usuário de **Arch Linux** com foco em personalização, eficiência e experimentação de novas tecnologias.  
+🎓 **Estudante de Análise de Dados e Sistemas** (em formação) e entusiasta de **programação**, **ciência da informação** e **software livre**. Usuário de **Arch Linux** com foco em personalização, eficiência e experimentação de novas tecnologias.
+
 🎹 Apaixonado por música, tenho curiosidade por artes e criatividade.  
 
 ## 🚀 Sobre mim
