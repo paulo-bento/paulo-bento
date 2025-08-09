@@ -4,7 +4,7 @@
 💻 Usuário de **Arch Linux** com foco em personalização, eficiência e experimentação de novas tecnologias.  
 🎹 Apaixonado por música, tenho curiosidade por artes e criatividade.  
 
----
+--
 
 ## 🚀 Sobre mim
 
@@ -14,7 +14,7 @@
 - 🔍 Curioso sobre **uso ético da Inteligência Artificial** em pesquisas e aplicações práticas.  
 - 🛠 Já participei de projetos acadêmicos, incluindo robótica e desenvolvimento de aplicativos.
 
----
+--
 
 ## 📫 Como me encontrar
 
