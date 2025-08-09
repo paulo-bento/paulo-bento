@@ -1,10 +1,10 @@
 # 👋 Olá, eu sou o João
 
+---
+
 🎓 **Estudante de Análise de Dados e Sistemas** (em formação) e entusiasta de **programação**, **ciência da informação** e **software livre**.  
 💻 Usuário de **Arch Linux** com foco em personalização, eficiência e experimentação de novas tecnologias.  
 🎹 Apaixonado por música, tenho curiosidade por artes e criatividade.  
-
---
 
 ## 🚀 Sobre mim
 
@@ -13,8 +13,6 @@
 - 📊 Busco unir tecnologia e ciência para criar soluções úteis, com impacto social positivo.  
 - 🔍 Curioso sobre **uso ético da Inteligência Artificial** em pesquisas e aplicações práticas.  
 - 🛠 Já participei de projetos acadêmicos, incluindo robótica e desenvolvimento de aplicativos.
-
---
 
 ## 📫 Como me encontrar
 
