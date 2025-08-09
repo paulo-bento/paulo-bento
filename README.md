@@ -1,16 +1,23 @@
-## Hi there 👋
+# 👋 Olá, eu sou o João
 
-<!--
-**paulo-bento/paulo-bento** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Estudante de Análise de Dados e Sistemas** (em formação) e entusiasta de **programação**, **ciência da informação** e **software livre**.  
+💻 Usuário de **Arch Linux** com foco em personalização, eficiência e experimentação de novas tecnologias.  
+🎹 Apaixonado por música, tenho curiosidade por artes e criatividade.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Sobre mim
+
+- 🎯 Interesses principais: **produtos digitais** e **projetos científicos**.  
+- 🧠 Iniciei meus estudos em **Python** e sigo expandindo para outras linguagens e ferramentas.  
+- 📊 Busco unir tecnologia e ciência para criar soluções úteis, com impacto social positivo.  
+- 🔍 Curioso sobre **uso ético da Inteligência Artificial** em pesquisas e aplicações práticas.  
+- 🛠 Já participei de projetos acadêmicos, incluindo robótica e desenvolvimento de aplicativos.
+
+---
+
+## 📫 Como me encontrar
+
+- ✉️ **Email:** joaopaulobento14@gmail.com  
+- 🌐 **LinkedIn:** https://www.linkedin.com/in/jo%C3%A3o-paulo-bento-de-lucena-b21b26238/ 
+- 🐧 **GitHub:** https://github.com/paulo-bento
