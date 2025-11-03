@@ -2,9 +2,7 @@
 
 ---
 
-🎓 **Estudante de Análise de Dados e Sistemas** (em formação) e entusiasta de **programação**, **ciência da informação** e **software livre**.
-
-🎹 Apaixonado por música, tenho curiosidade por artes e criatividade.  
+🎓 **Estudante de Análise de Dados e Sistemas** (em formação) e entusiasta de **programação**, **ciência da informação** e **software livre**. Apaixonado por música, tenho curiosidade por artes e criatividade.  
 
 ## 🚀 Sobre mim
 
