@@ -15,4 +15,3 @@
 
 - ✉️ **Email:** joaopaulobento14@gmail.com  
 - 🌐 **LinkedIn:** https://www.linkedin.com/in/jo%C3%A3o-paulo-bento-de-lucena-b21b26238/ 
-- 🐧 **GitHub:** https://github.com/paulo-bento
