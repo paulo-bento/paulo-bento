@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou o João
+# 👋 Oi, eu sou o João
 
 ---
 
